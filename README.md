@@ -1,1 +1,2 @@
-Hi, this is the shell, basic task
+#!/bin/bash
+where am i? Write a script that prints the absolute path name of the current working directory. 
