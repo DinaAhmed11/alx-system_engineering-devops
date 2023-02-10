@@ -9,3 +9,4 @@ with user and group IDs displayed numerically
 
 And hidden files (starting with .)
 mkdir /tmp/my_first_directory----> creates a directory named my_first_directory in the /tmp/ directory
+mv betty /tmp/my_first_directory===> Move the file betty from /tmp/ to /tmp/my_first_directory.
